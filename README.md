@@ -2,7 +2,7 @@
 <p>Gure haurrak LH3n zeudenean hasi ginen antolatzen, eta hasiera hartan, gure helburua, Mugikorren jabetza ahalik eta gehien atzeratzeko sentsibilizazioa lantzea izan zen. Horretarako, ikastolako eta herriko beste ikastoletako haurren datuak bildu genituen, sexuaren arabera banatuta, eta mailaz maila, zenbat haurrek zuten dagoeneko euren jabetzako smartphone bat jakin genuen. Urtez urteko bilakera handitzen doa, eta geroz eta lehenago eskuratzen dituztela da ondorio nagusia. </p>
 
 <h2>Orain artekoak</h2>
-</p>Hau horrela, iaz, LH4. mailako gurasoei zuzendutako 3 tresna sortu genituen:</p>
+<p>Hau horrela, iaz, LH4. mailako gurasoei zuzendutako 3 tresna sortu genituen:</p>
 <ol>
   <li>“Aurten ez” Konpromisioa esplizituki betetzeko online inkesta bat sortu eta zabaldu genuen. Bertan, aurten ez diegula geure haurrei interneteko sarbidea duen mugikorrik emango konpromisoa hartzera gonbidatzen genituen. Bertan, 3 galdera egin genituen eta hauek izan ziren emaitzak:</li>
   <img src="https://github.com/Muittu/Muittu/blob/main/2%20Ikasturteko%20datuak.png?raw=true"/>
