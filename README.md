@@ -1,6 +1,7 @@
-<h1>Muittu, ta mobilak mutu</h1>
+<h1> Gu muittu, ta mobilak mutu</h1>
 <p>Gure haurrak LH3n zeudenean hasi ginen antolatzen, eta hasiera hartan, gure helburua, Mugikorren jabetza ahalik eta gehien atzeratzeko sentsibilizazioa lantzea izan zen. Horretarako, ikastolako eta herriko beste ikastoletako haurren datuak bildu genituen, sexuaren arabera banatuta, eta mailaz maila, zenbat haurrek zuten dagoeneko euren jabetzako smartphone bat jakin genuen. Urtez urteko bilakera handitzen doa, eta geroz eta lehenago eskuratzen dituztela da ondorio nagusia. </p>
 
+<h2>Orain artekoak</h2>
 </p>Hau horrela, iaz, LH4. mailako gurasoei zuzendutako 3 tresna sortu genituen:</p>
 <ol>
   <li>1) “Aurten ez” Konpromisioa esplizituki betetzeko online inkesta bat sortu eta zabaldu genuen. Bertan, aurten ez diegula geure haurrei interneteko sarbidea duen mugikorrik emango konpromisoa hartzera gonbidatzen genituen. Bertan, 3 galdera egin genituen eta hauek izan ziren emaitzak:</li>
@@ -13,6 +14,7 @@
   <li>3) Gurasoei zuzendutako dekalogo bat osatu genuen, norberak mugikorraren eta internetaren zein erabilera egiten duenaz hausnartzeko.</li>
 </ol>
 <br/><br/>
+<h2>Aurrera begira</h2>
 <p>
 Aurtengo ikasturtean, gure haurrak LH5ean daude, eta helburu hauek finkatu ditugu:</p>
 <ul>
