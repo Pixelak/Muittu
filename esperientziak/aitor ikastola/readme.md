@@ -14,5 +14,5 @@ Galdetegiak emandakoarekin, gurasookin egindako bileran landutakoa:<br/>
 <br/>
 Eta azkenik, 2022an, gure seme alabekin egindako ariketa:<br/>
 
-<a href="2022-06-21_ariketa_gurasoak_umeak.pdf">Ariketa gurasoak umeak</a>
+<a href="2022-06-21_ariketa_gurasoak_+_umeak.pdf">Ariketa gurasoak umeak</a>
 
