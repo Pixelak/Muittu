@@ -1,5 +1,6 @@
+<h1>Aitor ikastolako esperientzia (Egia)</h1>
 Lehenik duela 2/3 urte LH6 mailan ikasleek mahai gaineratutako diagnostikoa:
-<img src="diagnostiko_irudia.jpg">
+<img src="diagnostikoa_irudia.jpg"/>
 
 Bigarrenik, LH mailan egoera zertan zen jakiteko landu genuen galdetegia:
 
